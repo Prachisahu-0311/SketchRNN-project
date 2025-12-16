@@ -54,7 +54,7 @@ Note: All sketches are made by the model from scratch, and not copied from the d
 ## Project Structure
 
 SketchRNN-Project/
-│
+
 ├── SketchRNN_Final.ipynb       
 ├── generated_outputs/         
 ├── report.pdf                  

@@ -55,11 +55,11 @@ Note: All sketches are made by the model from scratch, and not copied from the d
 
 SketchRNN-Project/
 │
-├── SketchRNN_Final.ipynb       # Colab notebook with full implementation
-├── generated_outputs/          # Sample output images and GIFs
-├── report.pdf                  # Project report
-├── requirements.txt            # Dependencies (optional)
-└── README.md                   # Project documentation
+├── SketchRNN_Final.ipynb       
+├── generated_outputs/         
+├── report.pdf                  
+├── requirements.txt          
+└── README.md                 
 
 ## How to Run
 

@@ -84,16 +84,7 @@ Our architecture is a hybrid of **RNN**, **VAE**, and **Transformer layers**:
 - Recovered **fine strokes** with no mode collapse.
 - Maintained accuracy of predicting pen states (`pen-down/up`) across sketch sequences.
 
-### **Final Outputs**
 
-| Object Class  | Example Output                       |
-|---------------|-------------------------------------|
-| Apple         | ![apple-sketch](outputs/apple.gif) |
-| Circle        | ![circle-sketch](outputs/circle.png) |
-| Star          | ![star-sketch](outputs/star.gif)   |
-| Triangle      | ![triangle-sketch](outputs/triangle.gif) |
-
----
 
 ## 🛠 Configuration
 

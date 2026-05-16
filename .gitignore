@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/
+outputs/
+*.pt
+.vscode/

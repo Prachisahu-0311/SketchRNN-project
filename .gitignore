@@ -5,4 +5,5 @@ __pycache__/
 data/
 outputs/
 *.pt
+!deploy/model_for_deploy.pt
 .vscode/

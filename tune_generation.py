@@ -37,7 +37,7 @@ from torch.nn.utils.rnn import pad_sequence
 # =============================================================================
 # CONFIG — match training-time architecture, sweep generation settings
 # =============================================================================
-SOURCE_OUTPUT_DIR = "./outputs_v2_real"        # where final.pt lives
+SOURCE_OUTPUT_DIR = "./outputs_v2"             # where final.pt lives
 TUNED_OUTPUT_DIR = "./outputs_v7_tuned"        # where new outputs go (separate from v7 baseline)
 
 CONFIG = {

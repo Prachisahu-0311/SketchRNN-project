@@ -19,7 +19,7 @@ import sys
 import torch
 from pathlib import Path
 
-SOURCE_CHECKPOINT = "./outputs_v2_real/final.pt"   # adjust if yours is elsewhere
+SOURCE_CHECKPOINT = "./outputs_v2/final.pt"         # adjust if yours is elsewhere
 OUTPUT_DIR = "./deploy"
 OUTPUT_FILE = "model_for_deploy.pt"
 

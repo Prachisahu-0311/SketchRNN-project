@@ -2,7 +2,7 @@
 
 A class-conditional generative model that learns to draw sketches stroke-by-stroke. Built with a BiLSTM-VAE-Transformer hybrid trained on Google QuickDraw.
 
-**[Live demo →](https://YOUR_STREAMLIT_URL_HERE.streamlit.app/)**
+**[Live demo →](https://sketchrnn-project-jjbuqfrjr2dd5j8hmqpngt.streamlit.app/)**
 
 ---
 
